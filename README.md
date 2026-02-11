@@ -1,4 +1,5 @@
 # Projects in Data Science (2026)
+Collaborators: Jonas
 
 #### Overview
 
