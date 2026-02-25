@@ -1,5 +1,5 @@
 # Projects in Data Science (2026)
-Collaborators: Jonas, Klara, Nyasha, Maksims.
+Collaborators: Jonas, Klara, Nyasha, Maksims, Jakub.
 #### Overview
 
 This is a template repository for the "Projects in Data Science" course. You should use this repository for your project.
